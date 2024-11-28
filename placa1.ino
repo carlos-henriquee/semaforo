@@ -142,15 +142,15 @@ void setup() {
   pinMode(green2,OUTPUT);
 
 
-     // BLOCO 3
-    pinMode(red3,OUTPUT);
-    pinMode(yellow3,OUTPUT);
-    pinMode(green3,OUTPUT);
+  // BLOCO 3
+  pinMode(red3,OUTPUT);
+  pinMode(yellow3,OUTPUT);
+  pinMode(green3,OUTPUT);
   
-     // BLOCO 4
-    pinMode(red4,OUTPUT);
-    pinMode(yellow4,OUTPUT);
-    pinMode(green4,OUTPUT);
+  // BLOCO 4
+  pinMode(red4,OUTPUT);
+  pinMode(yellow4,OUTPUT);
+  pinMode(green4,OUTPUT);
 
 }
 
